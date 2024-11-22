@@ -1,4 +1,3 @@
-<img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
 
 # Deploying Deep Learning
 Welcome to our instructional guide for inference and realtime vision [DNN library](#api-reference) for **[NVIDIA Jetson](https://developer.nvidia.com/embedded-computing)** devices.  This project uses **[TensorRT](https://developer.nvidia.com/tensorrt)** to run optimized networks on GPUs from C++ or Python, and PyTorch for training models.
